@@ -27,7 +27,7 @@ The goal of this repository is to develop a deeper understanding of modern Deep 
 
 | # | Paper | Year | Status |
 |---|---|---:|---|
-| 01 | [Attention Is All You Need](./Attention_Is_All_You_Need.ipynb) | 2017 | 🚧 In Progress |
+| 01 | [Attention Is All You Need](./Attention_Is_All_You_Need.ipynb) | 2017 | Done |
 | 02 | U-Net | 2015 | ⏳ Planned |
 | 03 | ResNet | 2015 | ⏳ Planned |
 | 04 | Vision Transformer (ViT) | 2020 | ⏳ Planned |
